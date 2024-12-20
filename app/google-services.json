@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492587347607",
+    "project_id": "mychatbot-b407d",
+    "storage_bucket": "mychatbot-b407d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492587347607:android:290f2571051442896183d2",
+        "android_client_info": {
+          "package_name": "yogesh.example.mychatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD85reRweHFVZpmSCQ6XZotE5cZ-Y4tDnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
